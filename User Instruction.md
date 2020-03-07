@@ -10,8 +10,11 @@ The output *pit_map.html* provides a choropleth map of crime rate with apartment
 
 ### Use Case 2: 
 This is an apartment recommendation tool. Please follow the steps below to find your top-10 apartment!
+
 1.Open recommendation.py
+
 2.Run
+
 3.Enter your targeted room type from 1-5     
 	1 denote Studio
 	2 denote 1 bedroom
@@ -20,7 +23,8 @@ This is an apartment recommendation tool. Please follow the steps below to find 
 	5 denote 4 bedrooms
 
 4.Please allocate total score of 100 across 5 metrics: 
-*price, safety, distance to heinz, nearby restaurant and transit convenience*
+**price, safety, distance to heinz, nearby restaurant and transit convenience**
+
 according to your perceived value as it relates to apartment preference. 
 It’s ok to score 0 or 100 to one metric.
 
