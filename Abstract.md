@@ -1,0 +1,3 @@
+## Abstract
+
+This project aims to combine apartment information with factors that influence residential experience into one place. We scraped *apartments.com* website to obtain the apartment information and downloaded crime information CSV from government website. With Google Maps API, we created a choropleth map of crime data with apartment information as markers. To include more factors, we designed a recommendation tool, which prompts the user to input his priorities to find the top 10 apartments that best match his preferences. Overall, this project helps users optimize their residential experience.
