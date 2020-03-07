@@ -8,7 +8,7 @@
 The output *pit_map.html* provides a choropleth map of crime rate with apartment information as markers. You can click your mouse at any of the blue icons shown on the map to access the detailed apartment information.
 
 
-### Use-Case-2: 
+### Use Case 2: 
 This is an apartment recommendation tool. Please follow the steps below to find your top-10 apartment!
 1.Open recommendation.py
 2.Run
