@@ -1,4 +1,5 @@
 # Apartment-Info Scraping & Visualization
+## Group Members: Tianying Chu, Yanyi Qian, Zhaoyu Qiao, Guoyu Wu
 
 ## Basic concept: 
 When making a decision regarding relocation, it is necessary to consider various factors including price, room type, transitional convenience, and nearby recreational facilities. Furthermore, a high crime rate would make residents feel vulnerable. As crime goes up, home values tend to drop. Existing websites lack the above combination and fail to customize apartment features according to users’ preferences.
