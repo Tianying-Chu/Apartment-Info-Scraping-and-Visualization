@@ -1,0 +1,20 @@
+User Instruction:
+
+Note: to run this program and get back the final map html, you are required to install folium package. 
+Please open your cmd and enter: pip install folium or conda install folium, Thanks!
+
+Use case 2: 
+1.Open recommendation.py
+2.Run
+3.Enter your targeted room type from 1-5     
+	1 denote Studio
+	2 denote 1 bedroom
+	3 denote 2 bedrooms
+	4 denote 3 bedrooms
+	5 denote 4 bedrooms
+
+4.Please Allocate total score of 100 across 5 metrics: 
+price, safety, distance to heinz, nearby restaurant and transit convenience according to your perceived value as it relates to apartment preference. 
+It’s ok to score 0 or 100 to one metric. 
+
+5.Done. Please check the html map generated.
