@@ -16,10 +16,10 @@ This is an apartment recommendation tool. Please follow the steps below to find 
 2.Run
 
 3.Enter your targeted room type from 1-5     
-	1 denote Studio
-	2 denote 1 bedroom
-	3 denote 2 bedrooms
-	4 denote 3 bedrooms
+	1 denote Studio;
+	2 denote 1 bedroom;
+	3 denote 2 bedrooms;
+	4 denote 3 bedrooms;
 	5 denote 4 bedrooms
 
 4.Please allocate total score of 100 across 5 metrics: 
