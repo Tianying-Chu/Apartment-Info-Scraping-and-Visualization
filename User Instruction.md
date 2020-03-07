@@ -24,9 +24,7 @@ This is an apartment recommendation tool. Please follow the steps below to find 
 
 4.Please allocate total score of 100 across 5 metrics: 
 **price, safety, distance to heinz, nearby restaurant and transit convenience**
-
-according to your perceived value as it relates to apartment preference. 
-It’s ok to score 0 or 100 to one metric.
+(The number represents your apartment preferences. It’s ok to score 0 or 100 on one metric.)
 
 5.Done. Please check the html map generated.
 
